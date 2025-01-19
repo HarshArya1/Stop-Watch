@@ -48,5 +48,6 @@ butt.addEventListener('click',(event)=>{
     seconds=0;
     minutes=0;
     Milisec=0;
+    clearInterval(interval);
   }
 })
