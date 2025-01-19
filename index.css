@@ -56,6 +56,9 @@ button{
   padding: 0.4vw;
   width: 10vw;
 }
+button:hover{
+  transform: scale(1.1);
+}
 #but{
   margin-left: 5.5rem;
 }
